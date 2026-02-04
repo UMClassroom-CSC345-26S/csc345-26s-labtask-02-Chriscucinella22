@@ -11,7 +11,7 @@
      <TD WIDTH=10%> [0.5]
      <TD WIDTH=40%> Quality values submitted
      <TD WIDTH=10%> [0.5]    
-<TR> <TD WIDTH=40%> Cleaned and normalized (<TT>GoodCars.csv</TT>)
+<TR> <TD WIDTH=40%> Cleaned and normalized (<TT>Training.csv</TT> and <TT>Testing.csv</TT>)
      <TD WIDTH=10%> [0.5]
      <TD WIDTH=40%> Split (<TT>Training.csv</TT> and <TT>Testing.csv</TT>)
      <TD WIDTH=10%> [0.5]    

@@ -15,7 +15,6 @@ This labtask has several parts:
 - The TA will combine all the samples into one spreadsheet that everyone can use. You can add it to your
   repository by merging my pull request.
 - Remove non-ordinal features, and normalize the ordinal features.
-  Save that good data in a file `GoodCars.csv`.
   Randomly split the resultant data set into a training set of 80% and a testing set of 20%.
   Put the training set in a spreadsheet called `Training.csv` and the testing set in a spreadsheet
   called `Testing.csv`.
@@ -27,4 +26,4 @@ This labtask has several parts:
   accuracy achieved for each `K`.
   Report the results for the `K` with the highest accuracy by adding two new columns to  `Testing.csv` called
   `Prediction`, and `Confidence` to store the prediction and confidence for each car in the testing set.
-  Submit `GoodCars.csv`, `Training.csv`, `Testing.csv`, `Accuracy.csv`, and `KNNClassifier.ipynb`/`KNNClassifier.py`. (3.0%)
+  Submit `Training.csv`, `Testing.csv`, `Accuracy.csv`, and `KNNClassifier.ipynb`/`KNNClassifier.py`. (3.0%)
